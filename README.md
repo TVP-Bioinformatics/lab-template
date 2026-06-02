@@ -6,10 +6,15 @@ This repository provides a standard structure for computational projects.
 
 project/
 ├── data_raw/
+
 ├── data_processed/
+
 ├── scripts/
+
 ├── results/
+
 ├── figures/
+
 └── README.md
 
 ## Principles
