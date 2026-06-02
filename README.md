@@ -5,6 +5,7 @@ This repository provides a standard structure for computational projects.
 ## Recommended structure
 
 project/
+
 ├── data_raw/
 
 ├── data_processed/
